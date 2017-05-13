@@ -3,3 +3,6 @@ bin/
 node_modules
 package
 .DS_Store
+
+#private data
+resources/map/data
