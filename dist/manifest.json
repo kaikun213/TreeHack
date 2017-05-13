@@ -1,8 +1,8 @@
 {
-	"id": "skeleton",
-	"name": "Skeleton",
-	"description": "A skeleton dapp",
+	"id": "treeHack",
+	"name": "Tree Hack",
+	"description": "A distributed Application with Parity",
 	"version": "0.1",
-	"author": "Parity Technologies Ltd",
-	"iconUrl": "title.png"
+	"author": "kaikun",
+	"iconUrl": "tree.png"
 }
